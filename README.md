@@ -1,36 +1,51 @@
-Check out the MERN Stack E-Commerce Website: 
+
+
+<h3 align="center">MERN Stack E-Commerce Website</h3>
+
+
+## <a name="link">🔗 Links</a>/MERN Stack E-Commerce Website: 
 
 For Frontend:[https://buy-smart-online.netlify.app]
 
 For Admin Panel:[https://buy-smart-online1.netlify.app]
 
-<h3>Overview:</h3>
+
+
+## 📋 <a name="table">Table of Contents</a>
+
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+
+
+
+## <a name="introduction">🤖 Introduction</a>
+
 In this project, we built a full-stack e-commerce website using the MERN stack (MongoDB, Express.js, React.js, Node.js). The website features a complete front-end interface developed with React.js to display products, manage the shopping cart, and handle user authentication.
 
-<h3>Features:</h3>
-<h4>Product Display</h4>: Showcase a variety of products with detailed descriptions and images.
-<h4>Shopping Cart</h4>: Allow users to add products to their cart, view cart contents, and proceed to checkout.
-<h4>User Authentication</h4>: Implement a secure login and registration system for users.
-<h4>Backend APIs</h4>: Develop backend APIs using Express.js and Node.js to handle CRUD operations for products and user accounts.
-<h4>Admin Panel</h4>: Create an admin panel to manage products, including adding new products and updating existing ones.
-<h4>Responsive Design</h4>: Ensure that the website is fully responsive, providing an optimal user experience across devices.
 
-<h3>Technologies Used</h3>
-<h4>Frontend</h4>
-React.js
-,React Router
-,Redux
-,Axios
-,Styled Components
-<h4>Backend</h4>
-Express.js
-,Node.js
-,MongoDB
-,Mongoose
-<h4>Authentication</h4>
-JSON Web Tokens (JWT)
-<h4>Development Tools</h4>
-npm
-,Git
-,VS Code
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
+- React.js
+- MongoDB
+- Express
+- Axios
+- JSON Web Tokens (JWT)
+
+
+## <a name="features">🔋 Features</a>
+
+👉 **Product Display**: Showcase a variety of products with detailed descriptions and images.
+
+👉 **Shopping Cart**: Allow users to add products to their cart, view cart contents, and proceed to checkout.
+
+👉 **User Authentication**: Implement a secure login and registration system for users.
+
+👉 **Backend APIs**: Develop backend APIs using Express.js and Node.js to handle CRUD operations for products and user accounts.
+
+👉 **Admin Panel**:Create an admin panel to manage products, including adding new products and updating existing ones.
+
+👉 **Timeline**: Chronological display of key milestones and achievements. Ability to add or remove timeline entries through the admin panel. Visual and textual representation of career and project progression.
+
+👉 **Responsive Design**: Ensure that the website is fully responsive, providing an optimal user experience across devices.
