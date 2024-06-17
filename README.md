@@ -1,22 +1,57 @@
-	MERN Stack E-Commerce Website
 
-•	Overview:
-In this project, we'll build a full-stack e-commerce website using the MERN stack (MongoDB, Express.js, React.js, Node.js). The website will feature a complete front-end interface developed with React.js to display products, manage the shopping cart, and handle user authentication.
+<br />
+    <a>
+      <img src="https://github.com/DharmikParmar1887/MERN-Stack-E-Commerce-Website/blob/main/frontend/src/Components/Assets/hero_image.png" alt="Project Banner">
+    </a>
+  <br />
 
-•	Features:
-    Product Display: Showcase a variety of products with detailed descriptions and images.
-	Shopping Cart: Allow users to add products to their cart, view cart contents, and proceed to checkout.
-	User Authentication: Implement a secure login and registration system for users.
-	Backend APIs: Develop backend APIs using Express.js and Node.js to handle CRUD operations for products and user accounts.
-	Admin Panel: Create an admin panel to manage products, including adding new products and updating existing ones.
-	Responsive Design: Ensure that the website is fully responsive, providing an optimal user experience across devices.
+<h3 align="center">MERN Stack E-Commerce Website</h3>
 
-•	Frontend and Admin Links:
-	Frontend: Buy Smart Online Frontend
-	Admin Panel: Buy Smart Online Admin Panel
 
-•	Technologies Used:
-	Frontend: React.js, React Router, Redux, Axios, Styled Components
-	Backend: Express.js, Node.js, MongoDB, Mongoose
-	Authentication: JSON Web Tokens (JWT)
-	Development Tools: npm, Git, VS Code
+## <a name="link">🔗 Links</a>/MERN Stack E-Commerce Website: 
+
+For Frontend:[https://buy-smart-online.netlify.app]
+
+For Admin Panel:[https://buy-smart-online1.netlify.app]
+
+
+
+## 📋 <a name="table">Table of Contents</a>
+
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+
+
+
+## <a name="introduction">🤖 Introduction</a>
+
+In this project, we built a full-stack e-commerce website using the MERN stack (MongoDB, Express.js, React.js, Node.js). The website features a complete front-end interface developed with React.js to display products, manage the shopping cart, and handle user authentication.
+
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- React.js
+- MongoDB
+- Express
+- Axios
+- JSON Web Tokens (JWT)
+
+
+## <a name="features">🔋 Features</a>
+
+👉 **Product Display**: Showcase a variety of products with detailed descriptions and images.
+
+👉 **Shopping Cart**: Allow users to add products to their cart, view cart contents, and proceed to checkout.
+
+👉 **User Authentication**: Implement a secure login and registration system for users.
+
+👉 **Backend APIs**: Develop backend APIs using Express.js and Node.js to handle CRUD operations for products and user accounts.
+
+👉 **Admin Panel**:Create an admin panel to manage products, including adding new products and updating existing ones.
+
+👉 **Timeline**: Chronological display of key milestones and achievements. Ability to add or remove timeline entries through the admin panel. Visual and textual representation of career and project progression.
+
+👉 **Responsive Design**: Ensure that the website is fully responsive, providing an optimal user experience across devices.
+
