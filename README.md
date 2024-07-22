@@ -1,9 +1,4 @@
 
-<br />
-    <a>
-      <img src="https://github.com/DharmikParmar1887/MERN-Stack-E-Commerce-Website/blob/main/frontend/src/Components/Assets/hero_image.png" alt="Project Banner">
-    </a>
-  <br />
 
 <h3 align="center">MERN Stack E-Commerce Website</h3>
 
