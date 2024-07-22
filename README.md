@@ -1,5 +1,7 @@
 
 
+
+
 <h3 align="center">MERN Stack E-Commerce Website</h3>
 
 
@@ -49,3 +51,4 @@ In this project, we built a full-stack e-commerce website using the MERN stack (
 👉 **Timeline**: Chronological display of key milestones and achievements. Ability to add or remove timeline entries through the admin panel. Visual and textual representation of career and project progression.
 
 👉 **Responsive Design**: Ensure that the website is fully responsive, providing an optimal user experience across devices.
+
