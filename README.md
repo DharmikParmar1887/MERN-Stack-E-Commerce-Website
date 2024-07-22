@@ -1,7 +1,5 @@
 
 
-
-
 <h3 align="center">MERN Stack E-Commerce Website</h3>
 
 
